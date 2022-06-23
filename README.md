@@ -1,7 +1,7 @@
 ### Hi there 👋<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RupinVijan&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=daksh2356](https://github-profile-trophy.vercel.app/?username=RupinVijan)" alt="" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=RupinVijan" alt="" /></a> </p>
 
 
 - 🔭 I’m currently working on JavaScript And its Frameworks.
